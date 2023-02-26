@@ -1,0 +1,10 @@
+body{background-color: rgb(225, 232, 237)
+     ; height: 100vh;}
+section{ 
+display: flex;flex-wrap: wrap;
+align-items: center;
+justify-content:space-around
+}
+ 
+
+h3 {margin-left: 20px;}
